@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:kk_e_com_app/screens/cart_page.dart';
+import 'package:kk_e_com_app/screens/detail_page.dart';
+import 'package:kk_e_com_app/screens/fav_page.dart';
 import 'package:kk_e_com_app/screens/home_page.dart';
 
 void main() {
@@ -12,9 +15,14 @@ class EcomApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      routes: {
+        '/': (context) => HomePage(),
+        'detail_page': (context) => DetailPage(),
+        'cart_page': (context) => CartPage(),
+        'fav_page': (context) => FavPage(),
+      },
     );
   }
 }

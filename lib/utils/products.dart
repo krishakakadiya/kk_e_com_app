@@ -5537,17 +5537,17 @@ List<Map<String, dynamic>> products = [
   }
 ];
 List categoryI = [
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheindustry.beauty%2Frare-beautys-rapid-rise-to-success%2F&psig=AOvVaw3ju_kxi9noo71YOm2X4UCn&ust=1720709248888000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjogfXbnIcDFQAAAAAdAAAAABAQ",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.schoolofscent.com%2Frecommendations&psig=AOvVaw1rTMDGm7p-j3br0IXc0Q92&ust=1720709398992000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi09aTcnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Foffice-furniture-interior-design-service-22078389255.html&psig=AOvVaw26LFB7TJC2u3Z3SX4w0a-L&ust=1720709458864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjDkbTcnIcDFQAAAAAdAAAAABAh",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgrocery&psig=AOvVaw03wnJlL_jf-k47p0AjUiVd&ust=1720709527759000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjlkNzcnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.meesho.com%2Fkinza-decor-wall-decor-for-living-room-wall-hangings-for-home-decoration-metal-wall-decor-wall-art-home-decor-items-decorative-items-for-home-living-room-decor-bedroom-size-16x16-inch-colour-multii%2Fp%2F5iihlt&psig=AOvVaw0klRy24ZmsVfD6QsagWk_M&ust=1720709662522000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCim63dnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdonegoods-jennifer.en.made-in-china.com%2Fproduct%2FPZuJfVaFCgkd%2FChina-Stainless-Steel-Black-Kitchen-Accessories-Utensils-Dish-Plates-Drying-Storage-Rack-Over-Sink.html&psig=AOvVaw2cIbqeYoqsGE2Ynfnrdq3E&ust=1720709741460000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjgor3dnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dell.com%2Fen-in%2Fwork%2Fshop%2Fbusiness-laptop-notebook-computers%2Fsf%2Falienware-laptops&psig=AOvVaw3NMLTYkGlnNWlTZxCLn6iu&ust=1720709785090000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiEhdbdnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.textileinfomedia.com%2Fproduct%2Fnew-collection-casual-shirt-for-men-11b4&psig=AOvVaw3aUVh3uJSdIeKliWohNqtz&ust=1720709824112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDYsOLdnIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fdesigner-mens-casual-shoes-23706769562.html&psig=AOvVaw0dSp4ly5WmqHYBY_3SwloX&ust=1720709893853000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDbxoTenIcDFQAAAAAdAAAAABAZ",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.casioindiashop.com%2Fmens-watches&psig=AOvVaw2igORlfUBnoKXPsWbT-Ksl&ust=1720709946485000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiwwJ3enIcDFQAAAAAdAAAAABAE",
-  "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fmobile-accessories-22247263188.html&psig=AOvVaw3w5_OC3qZlX3AEz9sXK2uW&ust=1720709979548000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiSi7LenIcDFQAAAAAdAAAAABAJ",
+  "https://5.imimg.com/data5/SELLER/Default/2023/10/356144042/VK/KX/MD/135520142/beauty-cosmetics-500x500.jpg",
+  "https://images.squarespace-cdn.com/content/v1/5f0b9657b648c20c629e4a5e/1600214885856-B9JXV65UIXABKWH5S9GE/Mensfragrances.jpg",
+  "https://5.imimg.com/data5/SELLER/Default/2021/11/WA/FH/PM/4512991/bedroom-interior-furniture.jpg",
+  "https://i0.wp.com/www.thebraggingmommy.com/wp-content/uploads/2020/11/groceries-1100x578.jpg?resize=1100%2C578&ssl=1",
+  "https://m.media-amazon.com/images/I/61I7BorPXuL._AC_UF1000,1000_QL80_.jpg",
+  "https://i.pinimg.com/originals/08/05/bc/0805bc32065d28910450ad1cbe2de2ea.png",
+  "https://www.telegraph.co.uk/content/dam/recommended/2023/07/07/TELEMMGLPICT000341883746_16887389431030_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?imwidth=680",
+  "https://www.textileinfomedia.com/img/enlo/new-collection-casual-shirt-for-men-full.jpg",
+  "https://tiimg.tistatic.com/fp/1/007/747/casual-wear-mens-shoes-with-lace-closure-all-size-available--320.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpNDgpFYfg2G4iP3tvXZFid1oAlP-b73mIg&s",
+  "https://5.imimg.com/data5/UD/NK/UJ/SELLER-34498535/mobile-accessories.jpeg",
 ];
 List<String> categories = products
     .map(
@@ -5555,3 +5555,13 @@ List<String> categories = products
     )
     .toSet()
     .toList();
+List<Map<String, dynamic>> cart = [];
+List<Map<String, dynamic>> fav = [];
+List imagesslide = [
+  "https://5.imimg.com/data5/SELLER/Default/2022/11/YV/ZF/YO/116453489/white-casual-shoes-for-men.jpg",
+  "https://m.media-amazon.com/images/I/61uOFBe4b3L._AC_UF1000,1000_QL80_.jpg",
+  "https://m.media-amazon.com/images/I/717ekHOBJ5L._AC_UY350_.jpg",
+  "https://www.jiomart.com/images/product/original/rvowvf0akl/eyebogler-teal-tshirts-men-tshirt-tshirt-for-men-tshirt-mens-tshirt-men-s-polo-neck-regular-fit-half-sleeves-colorblocked-t-shirt-product-images-rvowvf0akl-1-202402121853.jpg?im=Resize=(500,630)",
+  "https://www.sassafras.in/cdn/shop/products/MSTOPS41698-1_1800x.jpg?v=1700834419",
+  "https://www.jiomart.com/images/product/500x630/rvkyosiusw/iloz-new-diamond-elegant-stylish-silver-watches-for-women-top-brand-fashion-female-clock-wrist-watches-ladies-for-women-product-images-rvkyosiusw-0-202303011846.jpg",
+];
